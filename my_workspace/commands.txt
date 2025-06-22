@@ -1,0 +1,5 @@
+"pwd - Print working directory"
+"ls - List directory contents" 
+"cd - Change directory" 
+"mkdir - Make new directory"
+"touch - Create empty file"
